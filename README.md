@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akash Kumar Ranjan</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rdprince0&label=Profile%20views&color=0e75b6&style=flat" alt="rdprince0" /> </p>
-<iframe src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW">via GIPHY</a></p>
 - 🔭 I’m currently working on [Education website](https://github.com/akashRanjan12/first_proj-BU.git)
 - 🌱 I’m currently learning **MERN**
 - 👯 I’m looking to collaborate on **Business type projects**
