@@ -6,17 +6,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rdprince0&label=Profile%20views&color=0e75b6&style=flat" alt="rdprince0" /> </p>
 
 - 🔭 I’m currently working on [Education website](https://github.com/akashRanjan12/first_proj-BU.git)
-
 - 🌱 I’m currently learning **MERN**
-
 - 👯 I’m looking to collaborate on **Business type projects**
-
-- 📝 I regularly write articles on [on my socialmedia](on my socialmedia)
-
-- 📫 How to reach me **akash12ranjan@gmail.com**
-- 
+- 📝 I regularly write articles on [on my socialmedia](on my socialmedia) 
+- 📫 How to reach me **akash12ranjan@gmail.com**  
 - 📄 Know about my experiences [Fresher](Fresher)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/akash kumar ranjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash kumar ranjan" height="30" width="40" /></a>
