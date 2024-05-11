@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akash Kumar Ranjan</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rdprince0&label=Profile%20views&color=0e75b6&style=flat" alt="rdprince0" /> </p>
-<img  height="300px" width="300px" src="https://media.tenor.com/A-xepNszV9YAAAAi/ai-bot.gif" alt="let chatGpt do it">
+<img align="right"  height="300px" width="300px" src="https://media.tenor.com/A-xepNszV9YAAAAi/ai-bot.gif" alt="let chatGpt do it">
 - 🔭 I’m currently working on [Education website](https://github.com/akashRanjan12/first_proj-BU.git)
 - 🌱 I’m currently learning **MERN**
 - 👯 I’m looking to collaborate on **Business type projects**
