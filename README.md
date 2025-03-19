@@ -3,8 +3,8 @@
 <img align="right"  height="300px" width="300px" src="https://media.tenor.com/A-xepNszV9YAAAAi/ai-bot.gif" alt="let chatGpt do it">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rdprince0&label=Profile%20views&color=0e75b6&style=flat" alt="rdprince0" /> </p>
 
-
-- 🔭 I’m currently working on [Education website](https://github.com/akashRanjan12/first_proj-BU.git)
+- HERE is my PORTFOLIO link- (https://akash-ranjan.netlify.app/)
+- 🔭 I’m currently working on [school web](https://github.com/akashRanjan12/SCHOOL-web.git)
 - 🌱 I’m currently learning **MERN**
 - 👯 I’m looking to collaborate on **Business type projects**
 - 📝 I regularly write articles on [on my socialmedia](on my socialmedia) 
